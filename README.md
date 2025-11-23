@@ -1,4 +1,4 @@
-# ArovoresBalanceadas_KJM
+# ArvoresBalanceadas_KJM
 
 ### Trabalho 03 - 04/11/2025
 
